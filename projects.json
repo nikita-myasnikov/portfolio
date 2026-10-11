@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "portfolio",
+    "title": "Developer portfolio",
+    "stack": "Nuxt / Vue",
+    "note": "Current website source, including project preview material.",
+    "files": 76,
+    "bytes": 5722090,
+    "archive": "portfolio-source.zip",
+    "archive_sha256": "f012bc908939d2d2bc89b070c0705d13737a9caa8bcf9dae13d212dc73f6544f"
+  },
+  {
+    "slug": "money-mind-prototype",
+    "title": "Money Mind",
+    "stack": "HTML / CSS / JavaScript",
+    "note": "Standalone UI prototype; not the complete finance application.",
+    "files": 5,
+    "bytes": 29760,
+    "archive": "money-mind-prototype-source.zip",
+    "archive_sha256": "c90cb10700fa3342066372a0929fcd69201a10b15a8c1d0a9a8704d5f4ef2ba9"
+  },
+  {
+    "slug": "autoliberty",
+    "title": "Autoliberty website",
+    "stack": "HTML / CSS / JavaScript",
+    "note": "Static website source in dist/.",
+    "files": 6,
+    "bytes": 418945,
+    "archive": "autoliberty-source.zip",
+    "archive_sha256": "45970a027f56e889665b716e9eb9726964a89d8bfcfbce47a692025b34b431d5"
+  },
+  {
+    "slug": "chistaya-sovest",
+    "title": "Chistaya Sovest website",
+    "stack": "HTML / CSS / JavaScript",
+    "note": "Static website source in dist/.",
+    "files": 9,
+    "bytes": 831452,
+    "archive": "chistaya-sovest-source.zip",
+    "archive_sha256": "71ba511664fa85671b7fa1ecb8b2b8cccd8d5815b943921c61e1d23ffd3d8eeb"
+  },
+  {
+    "slug": "bloom",
+    "title": "BLOOM flower shop",
+    "stack": "React / Vinext",
+    "note": "Website source, schema and development tests.",
+    "files": 118,
+    "bytes": 1378245,
+    "archive": "bloom-source.zip",
+    "archive_sha256": "258f6439920ce8262e4160d550c2fd7a8acef79cfbf653093927deb67240f5be"
+  },
+  {
+    "slug": "negative-numbers-trainer",
+    "title": "Negative Numbers Trainer",
+    "stack": "C# / Avalonia",
+    "note": "Latest source archive available in the saved files.",
+    "files": 29,
+    "bytes": 40996,
+    "archive": "negative-numbers-trainer-source.zip",
+    "archive_sha256": "6abcd9db791872bbcc0b2d88b9ff149543ae0c1126f242f65773a721c53c3e9e"
+  },
+  {
+    "slug": "graphics-canvas-demo",
+    "title": "Graphics Canvas Demo",
+    "stack": "HTML / JavaScript",
+    "note": "Educational Canvas demonstration from ProjectPractica.zip.",
+    "files": 7,
+    "bytes": 100894,
+    "archive": "graphics-canvas-demo-source.zip",
+    "archive_sha256": "153924090b4ca2786ba34d68a20452bf6e2143cc4046946f9452e1c7d08c3f65"
+  },
+  {
+    "slug": "pacman",
+    "title": "Pacman",
+    "stack": "Python",
+    "note": "Saved project archive; original README and attribution preserved.",
+    "files": 239,
+    "bytes": 4033031,
+    "archive": "pacman-source.zip",
+    "archive_sha256": "7d58a5363279fb6ebdab2236cf18ff0b5e58238633b6122b34597e0e9db64f13"
+  },
+  {
+    "slug": "planner",
+    "title": "PlannerProject",
+    "stack": "C++ / Qt",
+    "note": "Saved version with successful registration; build outputs removed.",
+    "files": 28,
+    "bytes": 109081,
+    "archive": "planner-source.zip",
+    "archive_sha256": "cb021f0c576b3f986a373fda92041831d4ca193a30826aa9a46fd8032011819e"
+  },
+  {
+    "slug": "accessible-city",
+    "title": "AccessibleCity",
+    "stack": "C++ / Qt",
+    "note": "Latest saved v6 source; build outputs removed.",
+    "files": 33,
+    "bytes": 551547,
+    "archive": "accessible-city-source.zip",
+    "archive_sha256": "1df031015266f62de2d49a1e0cad7d6b2e02d0a7a5522fc554c07df6e7d63f31"
+  }
+]
